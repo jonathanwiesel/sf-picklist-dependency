@@ -28,7 +28,7 @@ DESCRIPTION
   Output the value dependency to a file in CSV format.
 
 EXAMPLES
-  $ sf picklist dependency export --d Opportunity.LostReason__c -f . -u test@test.com
+  $ sf picklist dependency export -d Opportunity.LostReason__c -f . -u test@test.com
 ```
 
 <!-- commandsstop -->
